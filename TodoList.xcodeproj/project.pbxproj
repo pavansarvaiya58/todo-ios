@@ -31,6 +31,7 @@
 		184865632AC26AE9005ACB40 /* RegisterViewViewModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184865622AC26AE9005ACB40 /* RegisterViewViewModal.swift */; };
 		184865652AC26AF5005ACB40 /* TodoListItemViewViewModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184865642AC26AF5005ACB40 /* TodoListItemViewViewModal.swift */; };
 		184865672AC26EB4005ACB40 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184865662AC26EB4005ACB40 /* HeaderView.swift */; };
+		18AD1B4F2AC3D1D500875A59 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AD1B4E2AC3D1D500875A59 /* TLButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		184865622AC26AE9005ACB40 /* RegisterViewViewModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModal.swift; sourceTree = "<group>"; };
 		184865642AC26AF5005ACB40 /* TodoListItemViewViewModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListItemViewViewModal.swift; sourceTree = "<group>"; };
 		184865662AC26EB4005ACB40 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		18AD1B4E2AC3D1D500875A59 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				184865502AC269BB005ACB40 /* RegisterView.swift */,
 				184865522AC26A04005ACB40 /* TodoListItemView.swift */,
 				184865662AC26EB4005ACB40 /* HeaderView.swift */,
+				18AD1B4E2AC3D1D500875A59 /* TLButton.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -242,6 +245,7 @@
 				184865302AC2540C005ACB40 /* MainView.swift in Sources */,
 				1848654B2AC2698B005ACB40 /* TodoListView.swift in Sources */,
 				184865512AC269BB005ACB40 /* RegisterView.swift in Sources */,
+				18AD1B4F2AC3D1D500875A59 /* TLButton.swift in Sources */,
 				184865652AC26AF5005ACB40 /* TodoListItemViewViewModal.swift in Sources */,
 				1848655B2AC26ABE005ACB40 /* ProfileViewViewModal.swift in Sources */,
 				184865592AC26AB1005ACB40 /* MainVeiwViewModal.swift in Sources */,
