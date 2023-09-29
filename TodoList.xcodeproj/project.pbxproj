@@ -31,6 +31,7 @@
 		184865632AC26AE9005ACB40 /* RegisterViewViewModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184865622AC26AE9005ACB40 /* RegisterViewViewModal.swift */; };
 		184865652AC26AF5005ACB40 /* TodoListItemViewViewModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184865642AC26AF5005ACB40 /* TodoListItemViewViewModal.swift */; };
 		184865672AC26EB4005ACB40 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184865662AC26EB4005ACB40 /* HeaderView.swift */; };
+		18A41DCF2AC65CFB000DF8BF /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A41DCE2AC65CFB000DF8BF /* Extensions.swift */; };
 		18AD1B4F2AC3D1D500875A59 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AD1B4E2AC3D1D500875A59 /* TLButton.swift */; };
 /* End PBXBuildFile section */
 
@@ -57,6 +58,7 @@
 		184865622AC26AE9005ACB40 /* RegisterViewViewModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModal.swift; sourceTree = "<group>"; };
 		184865642AC26AF5005ACB40 /* TodoListItemViewViewModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListItemViewViewModal.swift; sourceTree = "<group>"; };
 		184865662AC26EB4005ACB40 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		18A41DCE2AC65CFB000DF8BF /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		18AD1B4E2AC3D1D500875A59 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -155,6 +157,7 @@
 				184865312AC2540D005ACB40 /* Assets.xcassets */,
 				184865422AC25C9C005ACB40 /* GoogleService-Info.plist */,
 				1848652D2AC2540C005ACB40 /* TodoListApp.swift */,
+				18A41DCE2AC65CFB000DF8BF /* Extensions.swift */,
 			);
 			path = Other;
 			sourceTree = "<group>";
@@ -253,6 +256,7 @@
 				184865492AC26978005ACB40 /* ProfileView.swift in Sources */,
 				184865552AC26A64005ACB40 /* User.swift in Sources */,
 				1848655D2AC26ACA005ACB40 /* TodoListViewViewModal.swift in Sources */,
+				18A41DCF2AC65CFB000DF8BF /* Extensions.swift in Sources */,
 				184865532AC26A04005ACB40 /* TodoListItemView.swift in Sources */,
 				1848652E2AC2540C005ACB40 /* TodoListApp.swift in Sources */,
 				184865632AC26AE9005ACB40 /* RegisterViewViewModal.swift in Sources */,
