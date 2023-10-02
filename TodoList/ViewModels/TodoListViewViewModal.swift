@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+/// ViewModal for list of items view
+/// Primary tab
+class TodoListViewViewModal: ObservableObject {
+    init() {}
+}
