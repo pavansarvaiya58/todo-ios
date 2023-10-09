@@ -8,8 +8,23 @@
 import SwiftUI
 
 struct NewItemView: View {
+    @State var title: String = ""
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            Text("New Item")
+                .font(.system(size: 32))
+                .bold()
+            
+            Form {
+                // Title
+                TextField("Title", text: $title)
+                
+                // Due Date
+                
+                // Button
+            }
+        }
     }
 }
 
