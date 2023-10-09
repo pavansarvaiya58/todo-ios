@@ -10,5 +10,7 @@ import Foundation
 /// ViewModal for list of items view
 /// Primary tab
 class TodoListViewViewModal: ObservableObject {
+    @Published var showingNewItemView = false
+    
     init() {}
 }
